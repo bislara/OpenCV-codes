@@ -1,0 +1,4 @@
+/home/lara/DisplayImage/CMakeFiles/edit_cache.dir
+/home/lara/DisplayImage/CMakeFiles/rebuild_cache.dir
+/home/lara/DisplayImage/CMakeFiles/DisplayImage1.dir
+/home/lara/DisplayImage/CMakeFiles/DisplayImage.dir
