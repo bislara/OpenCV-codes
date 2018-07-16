@@ -1,0 +1,14 @@
+value	Scale
+0	COLORMAP_AUTUMN	colorscale_autumn
+1	COLORMAP_BONE	colorscale_bone
+2	COLORMAP_JET	colorscale_jet
+3	COLORMAP_WINTER	colorscale_winter
+4	COLORMAP_RAINBOW	colorscale_rainbow
+5	COLORMAP_OCEAN	colorscale_ocean
+6	COLORMAP_SUMMER	colorscale_summer
+7	COLORMAP_SPRING	colorscale_spring
+8	COLORMAP_COOL	colorscale_cool
+9	COLORMAP_HSV	colorscale_hsv
+10	COLORMAP_PINK	colorscale_pink
+11	COLORMAP_HOT	colorscale_hot
+
